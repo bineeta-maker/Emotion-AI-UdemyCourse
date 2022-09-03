@@ -19,3 +19,7 @@ The second model will classify people’s emotion. Data contains images that bel
 
 ## MODEL DEPLOYMENT USING TENSORFLOW SERVING (WIP)
 The development is in progress
+
+Data Source: 
+https://www.kaggle.com/c/facial-keypoints-detection/overview
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
